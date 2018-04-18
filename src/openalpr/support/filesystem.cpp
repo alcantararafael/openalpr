@@ -1,11 +1,6 @@
 #include "filesystem.h"
-
+#include <sstream>
 #include <algorithm>
-#include <errno.h>
-#include <fstream>
-#include <string.h>
-
-
 
 namespace alpr
 {
